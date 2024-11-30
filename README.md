@@ -1,5 +1,5 @@
 # ParallelComputing
-This repository contains the projects related to the "Introduction to Parallel Computing" of University of Trento.
+This repository contains the projects related to the "Introduction to Parallel Computing" course in University of Trento.
 
 INSTRCTIONS TO REPRODUCE THE RESULTS:
 -It's sufficient to connect to the University of Trento's cluster (HPC), clone the repository,open the file "script_matTranspose_C.pbs" and change the following line under the comment "# Select the working directory" with its username  
