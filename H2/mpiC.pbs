@@ -24,7 +24,7 @@ gcc --version
 cd /home/username/
 
 
-mpicc -fopenmp -o MatrixTransposeMPI.c pgm
+mpicc -fopenmp -o pgm MatrixTransposeMPI.c
 
 # Run the code
 
